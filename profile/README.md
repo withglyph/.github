@@ -8,8 +8,8 @@
 ### 프론트엔드
 [![](https://skillicons.dev/icons?i=vite,ts,svelte,windicss,graphql&theme=dark)](https://skillicons.dev)
 
-### DevOps
+### 개발 & 운영
 [![](https://skillicons.dev/icons?i=aws,cloudflare,vercel,sentry,githubactions&theme=dark)](https://skillicons.dev)
 
-### 툴
+### 생산성
 [![](https://skillicons.dev/icons?i=git,github,vscode,ps,ai,figma&theme=dark)](https://skillicons.dev)
