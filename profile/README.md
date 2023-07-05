@@ -6,7 +6,7 @@
 [![](https://skillicons.dev/icons?i=nodejs,ts,prisma,postgresql,redis,graphql&theme=dark)](https://skillicons.dev)
 
 ### 프론트엔드
-[![](https://skillicons.dev/icons?i=vite,ts,svelte,windicss,graphql&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vite,ts,svelte,tailwind,graphql&theme=dark)](https://skillicons.dev)
 
 ### 개발 & 운영
 [![](https://skillicons.dev/icons?i=aws,cloudflare,vercel,sentry,githubactions&theme=dark)](https://skillicons.dev)
