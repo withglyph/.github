@@ -1,5 +1,5 @@
 # ✏️ 펜슬컴퍼니
-![](https://pnxl.net/assets/opengraph/default.png)
+![](https://pnxl.net/assets/opengraph/default-cover.png)
 
 ## 이런 기술을 쓰고 있어요
 ### 백엔드
