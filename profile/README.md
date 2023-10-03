@@ -1,5 +1,5 @@
 # ✏️ 펜슬컴퍼니
-![](https://pnxl.net/assets/opengraph/default-cover.png)
+![](https://c.pnxl.net/assets/opengraph/default-cover.png)
 
 ## 이런 기술을 쓰고 있어요
 ### 백엔드
@@ -8,7 +8,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 프론트엔드
@@ -20,8 +19,6 @@
 
 ### 인프라
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 생산성
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
