@@ -1,7 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/penxle/.github/assets/337728/16e4236c-2d2b-4d8e-8c15-e828a1440776">
-  <img src="https://github.com/penxle/.github/assets/337728/72879f5d-adde-4831-bb0c-a7f6334ac111" height="200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/withglyph/.github/assets/337728/bd97af93-88ab-4a22-95c7-c2ce7b04dfdd">
+  <img src="https://github.com/withglyph/.github/assets/337728/25ec2814-f393-4d56-9375-18ddaa91ff11" height="100">
 </picture>
+<br />
+<br />
 
 ## 이런 기술을 쓰고 있어요
 ### 백엔드
