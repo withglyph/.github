@@ -28,6 +28,7 @@
 ### 인프라
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Pulumi](https://img.shields.io/badge/pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
 
 ### 생산성 & 툴링
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
